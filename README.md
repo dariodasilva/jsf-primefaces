@@ -1,4 +1,4 @@
-BANCO DE DADOS MYSQL COM DOCKER
+BANCO DE DADOS MYSQL 5.7 COM DOCKER
 
  - docker image pulll mysql:5.7
  - docker run -e MYSQL_ROOT_PASSWORD=root mysql:5.7

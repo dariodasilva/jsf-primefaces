@@ -11,7 +11,7 @@ import br.com.dariodasilva.erp.model.Empresa;
 public class SchemaGeneration {
 	
 	public static void main(String[] args) {		
-		EntityManagerFactory emf = Persistence.createEntityManagerFactory("AlgaWorksPU");
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("jsfprimefaces");
 		
 		EntityManager em = emf.createEntityManager();
 		
